@@ -1,0 +1,62 @@
+hr.divider {
+  max-width: 3.25rem;
+  border-width: 0.2rem;
+  border-color: #9d6695bf;
+}
+
+.btn-outline-secondary:hover {
+  color: #fff;
+  background-color: #9d6695bf;
+  border-color: #9d6695bf;
+}
+
+.btn-outline-secondary:focus, .btn-outline-secondary.focus {
+  box-shadow: 0 0 0 0.2rem #9d6695bf;
+}
+
+.btn-outline-secondary {
+    border-color: #9d6695bf;
+    width: 80px
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #9d6695bf;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem #9d6695bf;
+}
+
+#btn-send {
+  width: 80px;
+  color: #fff;
+  background-color: #9d6695bf;
+  border-color: #9d6695bf;
+}
+
+#btn-send:focus, #btn-send.focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #9d6695bf;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem #9d6695bf;
+}
+
+#th-main, #th2-main {
+  background-color: #9d6695bf;
+  border-color: #9d6695bf;
+}
+
+#btn-search, #btn-about {
+    border-color: #9d6695bf;
+}
+
+.modal-backdrop {
+  position:unset !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #9d6695bf;
+}

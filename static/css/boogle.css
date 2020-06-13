@@ -1,0 +1,119 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin-top: -10px;
+}
+
+.main {
+    width: 500px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 170px;
+    height: 80px;
+}
+
+p, #drugi {
+    text-align: center;
+    font-size: 36px;
+    color: #5F6368;
+    margin: 0;
+}
+
+#drugi {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.sign-in {
+    box-shadow: 0px 0px 6px 1px rgba(110,104,110,0.35);
+    border-radius: 0px;
+    margin: 0 auto;
+    width: 370px;
+    height: 340px;
+    background-color: rgba(242, 242, 242, 1);
+}
+
+#personal-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    height: 130px;
+    width: 130px;
+}
+
+.sign-in-form {
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.email-form {
+    border: 1px solid #dfe1e5;
+    border-radius: 2px;
+    height: 30px;
+    width: 80%;
+    outline: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    margin-top: 40px;
+    background-color: #ffffcc;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    width: 83%;
+    margin-top: 5px;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+    background-color: #1a75ff;
+    color: white;
+}
+
+.div-help {
+   width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: right;
+   margin-top: 7px;
+}
+
+a {
+   color: #1a75ff;
+   text-decoration: none;
+   font-size: 14px;
+}
+
+.div-new {
+   width: 370px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   margin-top: 10px;
+}
+
+.div-ikone {
+   width: 90px;
+   margin-top: 10px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.ikone {
+   margin: 0 auto;
+   height: 25px;
+   width: 25px;
+}
